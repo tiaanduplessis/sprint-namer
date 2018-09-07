@@ -4,7 +4,7 @@
 [![package downloads](https://img.shields.io/npm/dm/sprint-namer.svg?style=flat-square)](https://npmjs.org/package/sprint-namer)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![package license](https://img.shields.io/npm/l/sprint-namer.svg?style=flat-square)](https://npmjs.org/package/sprint-namer)
-[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/sprint-namer.svg)](https://greenkeeper.io/)
 
 > Get a random name for your next sprint
 
