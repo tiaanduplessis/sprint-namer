@@ -1,0 +1,35 @@
+{
+  "name": "sprint-namer",
+  "version": "1.0.0",
+  "description": "Get a random name for your next sprint",
+  "main": "index.js",
+  "repository": "https://github.com/tiaanduplessis/sprint-namer",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "jest",
+    "coverage":"jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "standard": "^12.0.1"
+  },
+  "files": [
+    "index.js",
+    "adjectives.js",
+    "adverbs.js",
+    "entities.js",
+    "cli.js"
+  ],
+  "bin": "cli.js",
+  "keywords": [
+    "sprint",
+    "sprint-name"
+  ],
+  "standard": {
+    "env": {
+      "jest": true
+    }
+  }
+}
